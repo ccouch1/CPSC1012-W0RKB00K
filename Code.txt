@@ -1,0 +1,7 @@
+acess statuc datatype name (parameters)
+{
+ if (datatype != void)
+	{
+	  return datatype;
+	}
+}

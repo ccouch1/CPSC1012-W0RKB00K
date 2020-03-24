@@ -1,0 +1,6 @@
+E:\CPSC1012\Advanced-ChrisCouch\Advanced-ChrisCouch\bin\Debug\Advanced-ChrisCouch.exe.config
+E:\CPSC1012\Advanced-ChrisCouch\Advanced-ChrisCouch\bin\Debug\Advanced-ChrisCouch.exe
+E:\CPSC1012\Advanced-ChrisCouch\Advanced-ChrisCouch\bin\Debug\Advanced-ChrisCouch.pdb
+E:\CPSC1012\Advanced-ChrisCouch\Advanced-ChrisCouch\obj\Debug\Advanced-ChrisCouch.csprojResolveAssemblyReference.cache
+E:\CPSC1012\Advanced-ChrisCouch\Advanced-ChrisCouch\obj\Debug\Advanced-ChrisCouch.exe
+E:\CPSC1012\Advanced-ChrisCouch\Advanced-ChrisCouch\obj\Debug\Advanced-ChrisCouch.pdb

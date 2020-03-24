@@ -1,0 +1,14 @@
+C:\DMIT104\Lessons Solutions\ClassDataMembersSolution\ClassDataMembers\obj\Debug\ResolveAssemblyReference.cache
+C:\DMIT104\Lessons Solutions\ClassDataMembersSolution\ClassDataMembers\bin\Debug\ClassDataMembers.exe
+C:\DMIT104\Lessons Solutions\ClassDataMembersSolution\ClassDataMembers\bin\Debug\ClassDataMembers.pdb
+C:\DMIT104\Lessons Solutions\ClassDataMembersSolution\ClassDataMembers\obj\Debug\ClassDataMembers.exe
+C:\DMIT104\Lessons Solutions\ClassDataMembersSolution\ClassDataMembers\obj\Debug\ClassDataMembers.pdb
+D:\nait\2017 Spring CPSC1012\CPSC1012_ProgrammingFundamentals\Archive\CPSC1012_From_Don\CPSC1012\Don's Lessons\Day10 Introduction to Class Data Members\ClassDataMembersSolution start\ClassDataMembers\bin\Debug\ClassDataMembers.exe
+D:\nait\2017 Spring CPSC1012\CPSC1012_ProgrammingFundamentals\Archive\CPSC1012_From_Don\CPSC1012\Don's Lessons\Day10 Introduction to Class Data Members\ClassDataMembersSolution start\ClassDataMembers\bin\Debug\ClassDataMembers.pdb
+D:\nait\2017 Spring CPSC1012\CPSC1012_ProgrammingFundamentals\Archive\CPSC1012_From_Don\CPSC1012\Don's Lessons\Day10 Introduction to Class Data Members\ClassDataMembersSolution start\ClassDataMembers\obj\Debug\ClassDataMembers.exe
+D:\nait\2017 Spring CPSC1012\CPSC1012_ProgrammingFundamentals\Archive\CPSC1012_From_Don\CPSC1012\Don's Lessons\Day10 Introduction to Class Data Members\ClassDataMembersSolution start\ClassDataMembers\obj\Debug\ClassDataMembers.pdb
+E:\CPSC1012\ClassDataMembersSolution start\ClassDataMembers\obj\Debug\ClassDataMembers.exe
+E:\CPSC1012\ClassDataMembersSolution start\ClassDataMembers\obj\Debug\ClassDataMembers.pdb
+E:\CPSC1012\ClassDataMembersSolution start\ClassDataMembers\bin\Debug\ClassDataMembers.exe
+E:\CPSC1012\ClassDataMembersSolution start\ClassDataMembers\bin\Debug\ClassDataMembers.pdb
+E:\CPSC1012\ClassDataMembersSolution start\ClassDataMembers\obj\Debug\ClassDataMembers.csprojResolveAssemblyReference.cache

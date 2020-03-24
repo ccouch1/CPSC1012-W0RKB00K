@@ -1,0 +1,6 @@
+c:\users\ccouch1\documents\visual studio 2013\Projects\Core1v2\Core1v2\bin\Debug\Core1v2.exe.config
+c:\users\ccouch1\documents\visual studio 2013\Projects\Core1v2\Core1v2\obj\Debug\Core1v2.csprojResolveAssemblyReference.cache
+c:\users\ccouch1\documents\visual studio 2013\Projects\Core1v2\Core1v2\bin\Debug\Core1v2.exe
+c:\users\ccouch1\documents\visual studio 2013\Projects\Core1v2\Core1v2\bin\Debug\Core1v2.pdb
+c:\users\ccouch1\documents\visual studio 2013\Projects\Core1v2\Core1v2\obj\Debug\Core1v2.exe
+c:\users\ccouch1\documents\visual studio 2013\Projects\Core1v2\Core1v2\obj\Debug\Core1v2.pdb

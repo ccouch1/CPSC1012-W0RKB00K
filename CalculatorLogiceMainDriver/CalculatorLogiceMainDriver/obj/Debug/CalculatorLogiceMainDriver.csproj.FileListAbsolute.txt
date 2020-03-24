@@ -1,0 +1,12 @@
+c:\users\ccouch1\documents\visual studio 2013\Projects\CalculatorLogiceMainDriver\CalculatorLogiceMainDriver\bin\Debug\CalculatorLogiceMainDriver.exe.config
+c:\users\ccouch1\documents\visual studio 2013\Projects\CalculatorLogiceMainDriver\CalculatorLogiceMainDriver\bin\Debug\CalculatorLogiceMainDriver.exe
+c:\users\ccouch1\documents\visual studio 2013\Projects\CalculatorLogiceMainDriver\CalculatorLogiceMainDriver\bin\Debug\CalculatorLogiceMainDriver.pdb
+c:\users\ccouch1\documents\visual studio 2013\Projects\CalculatorLogiceMainDriver\CalculatorLogiceMainDriver\obj\Debug\CalculatorLogiceMainDriver.csprojResolveAssemblyReference.cache
+c:\users\ccouch1\documents\visual studio 2013\Projects\CalculatorLogiceMainDriver\CalculatorLogiceMainDriver\obj\Debug\CalculatorLogiceMainDriver.exe
+c:\users\ccouch1\documents\visual studio 2013\Projects\CalculatorLogiceMainDriver\CalculatorLogiceMainDriver\obj\Debug\CalculatorLogiceMainDriver.pdb
+D:\CPSC1012\CalculatorLogiceMainDriver\CalculatorLogiceMainDriver\bin\Debug\CalculatorLogiceMainDriver.exe.config
+D:\CPSC1012\CalculatorLogiceMainDriver\CalculatorLogiceMainDriver\obj\Debug\CalculatorLogiceMainDriver.exe
+D:\CPSC1012\CalculatorLogiceMainDriver\CalculatorLogiceMainDriver\obj\Debug\CalculatorLogiceMainDriver.pdb
+E:\CPSC1012\CalculatorLogiceMainDriver\CalculatorLogiceMainDriver\bin\Debug\CalculatorLogiceMainDriver.exe.config
+E:\CPSC1012\CalculatorLogiceMainDriver\CalculatorLogiceMainDriver\obj\Debug\CalculatorLogiceMainDriver.exe
+E:\CPSC1012\CalculatorLogiceMainDriver\CalculatorLogiceMainDriver\obj\Debug\CalculatorLogiceMainDriver.pdb

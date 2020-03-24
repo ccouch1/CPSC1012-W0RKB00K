@@ -1,0 +1,9 @@
+E:\CPSC1012\PublicclassPerson\PublicclassPerson\bin\Debug\PublicclassPerson.exe.config
+E:\CPSC1012\PublicclassPerson\PublicclassPerson\bin\Debug\PublicclassPerson.exe
+E:\CPSC1012\PublicclassPerson\PublicclassPerson\bin\Debug\PublicclassPerson.pdb
+E:\CPSC1012\PublicclassPerson\PublicclassPerson\obj\Debug\PublicclassPerson.csprojResolveAssemblyReference.cache
+E:\CPSC1012\PublicclassPerson\PublicclassPerson\obj\Debug\PublicclassPerson.exe
+E:\CPSC1012\PublicclassPerson\PublicclassPerson\obj\Debug\PublicclassPerson.pdb
+D:\CPSC1012\PublicclassPerson\PublicclassPerson\bin\Debug\PublicclassPerson.exe.config
+D:\CPSC1012\PublicclassPerson\PublicclassPerson\obj\Debug\PublicclassPerson.exe
+D:\CPSC1012\PublicclassPerson\PublicclassPerson\obj\Debug\PublicclassPerson.pdb

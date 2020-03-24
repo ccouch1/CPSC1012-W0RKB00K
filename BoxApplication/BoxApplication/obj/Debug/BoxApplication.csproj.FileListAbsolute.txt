@@ -1,0 +1,9 @@
+E:\CPSC1012\BoxApplication\BoxApplication\bin\Debug\BoxApplication.exe.config
+E:\CPSC1012\BoxApplication\BoxApplication\bin\Debug\BoxApplication.exe
+E:\CPSC1012\BoxApplication\BoxApplication\bin\Debug\BoxApplication.pdb
+E:\CPSC1012\BoxApplication\BoxApplication\obj\Debug\BoxApplication.csprojResolveAssemblyReference.cache
+E:\CPSC1012\BoxApplication\BoxApplication\obj\Debug\BoxApplication.exe
+E:\CPSC1012\BoxApplication\BoxApplication\obj\Debug\BoxApplication.pdb
+D:\CPSC1012\BoxApplication\BoxApplication\bin\Debug\BoxApplication.exe.config
+D:\CPSC1012\BoxApplication\BoxApplication\obj\Debug\BoxApplication.exe
+D:\CPSC1012\BoxApplication\BoxApplication\obj\Debug\BoxApplication.pdb

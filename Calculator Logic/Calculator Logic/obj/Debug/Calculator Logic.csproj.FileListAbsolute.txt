@@ -1,0 +1,2 @@
+E:\CPSC1012\Calculator Logic\Calculator Logic\bin\Debug\Calculator Logic.exe.config
+D:\CPSC1012\Calculator Logic\Calculator Logic\bin\Debug\Calculator Logic.exe.config

@@ -1,0 +1,9 @@
+E:\CPSC1012\MethodsAndClasses\MethodsAndClasses\bin\Debug\MethodsAndClasses.exe.config
+E:\CPSC1012\MethodsAndClasses\MethodsAndClasses\bin\Debug\MethodsAndClasses.exe
+E:\CPSC1012\MethodsAndClasses\MethodsAndClasses\bin\Debug\MethodsAndClasses.pdb
+E:\CPSC1012\MethodsAndClasses\MethodsAndClasses\obj\Debug\MethodsAndClasses.csprojResolveAssemblyReference.cache
+E:\CPSC1012\MethodsAndClasses\MethodsAndClasses\obj\Debug\MethodsAndClasses.exe
+E:\CPSC1012\MethodsAndClasses\MethodsAndClasses\obj\Debug\MethodsAndClasses.pdb
+D:\CPSC1012\MethodsAndClasses\MethodsAndClasses\bin\Debug\MethodsAndClasses.exe.config
+D:\CPSC1012\MethodsAndClasses\MethodsAndClasses\obj\Debug\MethodsAndClasses.exe
+D:\CPSC1012\MethodsAndClasses\MethodsAndClasses\obj\Debug\MethodsAndClasses.pdb

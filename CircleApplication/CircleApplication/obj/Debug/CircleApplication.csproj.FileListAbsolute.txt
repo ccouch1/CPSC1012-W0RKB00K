@@ -1,0 +1,6 @@
+E:\CPSC1012\CircleApplication\CircleApplication\bin\Debug\CircleApplication.exe.config
+E:\CPSC1012\CircleApplication\CircleApplication\bin\Debug\CircleApplication.exe
+E:\CPSC1012\CircleApplication\CircleApplication\bin\Debug\CircleApplication.pdb
+E:\CPSC1012\CircleApplication\CircleApplication\obj\Debug\CircleApplication.csprojResolveAssemblyReference.cache
+E:\CPSC1012\CircleApplication\CircleApplication\obj\Debug\CircleApplication.exe
+E:\CPSC1012\CircleApplication\CircleApplication\obj\Debug\CircleApplication.pdb

@@ -1,0 +1,9 @@
+c:\users\ccouch1\documents\visual studio 2013\Projects\MovieTheatre\MovieTheatre\bin\Debug\MovieTheatre.exe.config
+c:\users\ccouch1\documents\visual studio 2013\Projects\MovieTheatre\MovieTheatre\bin\Debug\MovieTheatre.exe
+c:\users\ccouch1\documents\visual studio 2013\Projects\MovieTheatre\MovieTheatre\bin\Debug\MovieTheatre.pdb
+c:\users\ccouch1\documents\visual studio 2013\Projects\MovieTheatre\MovieTheatre\obj\Debug\MovieTheatre.csprojResolveAssemblyReference.cache
+c:\users\ccouch1\documents\visual studio 2013\Projects\MovieTheatre\MovieTheatre\obj\Debug\MovieTheatre.exe
+c:\users\ccouch1\documents\visual studio 2013\Projects\MovieTheatre\MovieTheatre\obj\Debug\MovieTheatre.pdb
+D:\CPSC1012\MovieTheatre\MovieTheatre\bin\Debug\MovieTheatre.exe.config
+D:\CPSC1012\MovieTheatre\MovieTheatre\obj\Debug\MovieTheatre.exe
+D:\CPSC1012\MovieTheatre\MovieTheatre\obj\Debug\MovieTheatre.pdb

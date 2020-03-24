@@ -1,0 +1,6 @@
+E:\CPSC1012\Core1\Core1\bin\Debug\Core1.exe.config
+E:\CPSC1012\Core1\Core1\bin\Debug\Core1.exe
+E:\CPSC1012\Core1\Core1\bin\Debug\Core1.pdb
+E:\CPSC1012\Core1\Core1\obj\Debug\Core1.csprojResolveAssemblyReference.cache
+E:\CPSC1012\Core1\Core1\obj\Debug\Core1.exe
+E:\CPSC1012\Core1\Core1\obj\Debug\Core1.pdb

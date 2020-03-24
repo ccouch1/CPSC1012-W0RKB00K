@@ -1,0 +1,6 @@
+E:\CPSC1012\InClass6\InClass6\bin\Debug\InClass6.exe.config
+E:\CPSC1012\InClass6\InClass6\obj\Debug\InClass6.csprojResolveAssemblyReference.cache
+E:\CPSC1012\InClass6\InClass6\bin\Debug\InClass6.exe
+E:\CPSC1012\InClass6\InClass6\bin\Debug\InClass6.pdb
+E:\CPSC1012\InClass6\InClass6\obj\Debug\InClass6.exe
+E:\CPSC1012\InClass6\InClass6\obj\Debug\InClass6.pdb

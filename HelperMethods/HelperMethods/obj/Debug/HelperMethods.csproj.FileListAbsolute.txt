@@ -1,0 +1,11 @@
+c:\users\ccouch1\documents\visual studio 2015\Projects\HelperMethods\HelperMethods\bin\Debug\HelperMethods.exe.config
+C:\Users\ccouch1\Documents\Visual Studio 2015\Projects\HelperMethods\HelperMethods\bin\Debug\HelperMethods.exe
+C:\Users\ccouch1\Documents\Visual Studio 2015\Projects\HelperMethods\HelperMethods\bin\Debug\HelperMethods.pdb
+C:\Users\ccouch1\Documents\Visual Studio 2015\Projects\HelperMethods\HelperMethods\obj\Debug\HelperMethods.exe
+C:\Users\ccouch1\Documents\Visual Studio 2015\Projects\HelperMethods\HelperMethods\obj\Debug\HelperMethods.pdb
+D:\CPSC1012\HelperMethods\HelperMethods\bin\Debug\HelperMethods.exe.config
+D:\CPSC1012\HelperMethods\HelperMethods\obj\Debug\HelperMethods.exe
+D:\CPSC1012\HelperMethods\HelperMethods\obj\Debug\HelperMethods.pdb
+E:\CPSC1012\HelperMethods\HelperMethods\bin\Debug\HelperMethods.exe.config
+E:\CPSC1012\HelperMethods\HelperMethods\obj\Debug\HelperMethods.exe
+E:\CPSC1012\HelperMethods\HelperMethods\obj\Debug\HelperMethods.pdb

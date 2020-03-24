@@ -1,0 +1,9 @@
+c:\users\ccouch1\documents\visual studio 2015\Projects\ArrayBarChart\ArrayBarChart\bin\Debug\ArrayBarChart.exe.config
+c:\users\ccouch1\documents\visual studio 2015\Projects\ArrayBarChart\ArrayBarChart\bin\Debug\ArrayBarChart.exe
+c:\users\ccouch1\documents\visual studio 2015\Projects\ArrayBarChart\ArrayBarChart\bin\Debug\ArrayBarChart.pdb
+c:\users\ccouch1\documents\visual studio 2015\Projects\ArrayBarChart\ArrayBarChart\obj\Debug\ArrayBarChart.csprojResolveAssemblyReference.cache
+c:\users\ccouch1\documents\visual studio 2015\Projects\ArrayBarChart\ArrayBarChart\obj\Debug\ArrayBarChart.exe
+c:\users\ccouch1\documents\visual studio 2015\Projects\ArrayBarChart\ArrayBarChart\obj\Debug\ArrayBarChart.pdb
+D:\CPSC1012\ArrayBarChart\ArrayBarChart\bin\Debug\ArrayBarChart.exe.config
+D:\CPSC1012\ArrayBarChart\ArrayBarChart\obj\Debug\ArrayBarChart.exe
+D:\CPSC1012\ArrayBarChart\ArrayBarChart\obj\Debug\ArrayBarChart.pdb
